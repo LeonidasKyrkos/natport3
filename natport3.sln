@@ -10,16 +10,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{0F9D81
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{400FFA91-8C46-4847-988E-3F0F9F9A9DB1}"
-	ProjectSection(SolutionItems) = preProject
-		site.css = site.css
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{BFE419A8-A7C8-4DF2-B249-50094FAA267E}"
-	ProjectSection(SolutionItems) = preProject
-		natport3\Images\toplogo.png = natport3\Images\toplogo.png
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
