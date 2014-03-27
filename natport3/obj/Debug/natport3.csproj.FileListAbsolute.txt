@@ -21,6 +21,5 @@ C:\DEV\natport3\natport3\bin\System.Web.Razor.xml
 C:\DEV\natport3\natport3\bin\System.Web.WebPages.xml
 C:\DEV\natport3\natport3\bin\System.Web.WebPages.Deployment.xml
 C:\DEV\natport3\natport3\bin\System.Web.WebPages.Razor.xml
-C:\DEV\natport3\natport3\obj\Debug\natport3.csprojResolveAssemblyReference.cache
 C:\DEV\natport3\natport3\obj\Debug\natport3.dll
 C:\DEV\natport3\natport3\obj\Debug\natport3.pdb
