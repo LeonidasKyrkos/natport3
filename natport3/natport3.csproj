@@ -161,6 +161,8 @@
     <Content Include="Global.asax" />
     <Content Include="Images\divbg.gif" />
     <Content Include="Images\divbg.png" />
+    <Content Include="Images\toplogo.gif" />
+    <Content Include="Images\toplogo.jpg" />
     <Content Include="Images\toplogo.png" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
