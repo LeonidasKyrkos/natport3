@@ -15,6 +15,5 @@ namespace natport3.Controllers
         {
             return View();
         }
-
     }
 }

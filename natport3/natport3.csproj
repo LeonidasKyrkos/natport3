@@ -157,8 +157,10 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Content Include="Content\JavaScript.js" />
     <Content Include="Content\site.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\art_1.jpg" />
     <Content Include="Images\divbg.gif" />
     <Content Include="Images\divbg.png" />
     <Content Include="Images\toplogo.gif" />
