@@ -161,11 +161,16 @@
     <Content Include="Content\site.css" />
     <Content Include="Global.asax" />
     <Content Include="Images\art_1.jpg" />
+    <Content Include="Images\bgnat.png" />
+    <Content Include="Images\completedwork.jpg" />
+    <Content Include="Images\contact.jpg" />
     <Content Include="Images\divbg.gif" />
     <Content Include="Images\divbg.png" />
+    <Content Include="Images\inproduction.jpg" />
     <Content Include="Images\toplogo.gif" />
     <Content Include="Images\toplogo.jpg" />
     <Content Include="Images\toplogo.png" />
+    <Content Include="Images\Trinity-timeline-web-668x341.jpg" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -184,6 +189,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Home\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Completed.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

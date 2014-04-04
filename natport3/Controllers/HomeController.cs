@@ -15,5 +15,10 @@ namespace natport3.Controllers
         {
             return View();
         }
+
+        public ActionResult Completed()
+        {
+            return View();
+        }
     }
 }

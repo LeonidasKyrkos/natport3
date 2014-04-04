@@ -8,48 +8,20 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <link type="text/css" rel="stylesheet" href="~/Content/site.css"/>
-    <title>Nat Kyrkos Portfolio</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+    <title>nat kyrkos art</title>
     <script type="text/javascript" src="~/Content/JavaScript.js"></script>
 </head>
-<body>
-    <div class="linetop"></div>
-        <img class="top" src="~/Images/toplogo.jpg" />
-
-        <p class="toptext">Hello visitor. My name is Natalie Kyrkos and I am a professional artist currently working on multiple projects in and around Leeds. Please
-           take the time to browse my portfolio and if you would like to get in contact with me, my email address is located at the bottom of the page.</p>
-
-    <div>
-        <table>
-            <tr>
-                <td><img onclick="bigImage(this)" class="div" src="http://noisefestival.com/sites/default/files/imagecache/work/059.jpg"/></td>
-                <td><img onclick="bigImage(this)" class="div" src="http://noisefestival.com/sites/default/files/imagecache/work/005__copy.jpg" /></td>
-                <td><img onclick="bigImage(this)" class="div" src="http://noisefestival.com/sites/default/files/imagecache/work/121__copy.jpg" /></td>
-                <td><img onclick="bigImage(this)" class="div" src="http://noisefestival.com/sites/default/files/imagecache/work/first_sythetic_bird_and_bricks_print.jpg" /></td>
-                <td><img onclick="bigImage(this)" class="div" src="http://noisefestival.com/sites/default/files/imagecache/work/054.jpg" /></td>
-            </tr>
-        </table> 
+<body style="background-color: #E6E6E6">
+    <div class="imgdiv">
+        <img class="imgblock2" src="~/Images/inproduction.jpg" style="padding-right: 20px;"/>
+        <a href= '@Url.Action("Completed", "Home")'><img class="imgblock2" src="~/Images/completedwork.jpg" style="padding-right: 20px;"/></a>
+        <img class="imgblock2" src="~/Images/contact.jpg"/>
     </div>
 
-    <div id="test" class="lowerbody">
-        <img id="lbimg" class="bigpicture" src="//:0"/>
-    </div>
 
-    <div class="middletext">
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quam arcu, lobortis ut volutpat sed, 
-            porta id metus. Integer ac urna vel odio condimentum eleifend. Curabitur pharetra nunc vel nisi malesuada, 
-            a porta neque sodales. Integer sed tortor placerat, egestas massa sed, suscipit nunc. Pellentesque habitant 
-            morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec vitae urna eget nibh pellentesque 
-            faucibus. In feugiat venenatis quam, sed euismod augue. Phasellus tincidunt bibendum tellus a sodales.
-        </p>
-    </div>
-    <p class="clearline"></p>
 
-    <div class="linebot"></div>
 
-    <div>
-        <div><p class="bottext" style="text-align:center">&copy; Kyrko-sel Design</p></div>
-    </div>
 
 </body>
 </html>
