@@ -20,5 +20,10 @@ namespace natport3.Controllers
         {
             return View();
         }
+
+        public ActionResult Biography()
+        {
+            return View();
+        }
     }
 }
