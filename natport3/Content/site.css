@@ -54,8 +54,20 @@
     background-color: #bdbdbd;
 }
 
-.menu {
-    top: 0px;
+.menu1 {
+    top: 10%;
+    left: 0%;
+    position: absolute;
+}
+
+.menu2 {
+    top: 20%;
+    left: 0%;
+    position: absolute;
+}
+
+.menu3 {
+    top: 30%;
     left: 0%;
     position: absolute;
 }

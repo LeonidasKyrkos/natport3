@@ -163,8 +163,11 @@
     <Content Include="Images\603941_10152241265570328_1095282471_n.jpg" />
     <Content Include="Images\art_1.jpg" />
     <Content Include="Images\bgnat.png" />
+    <Content Include="Images\biographysignpost.png" />
     <Content Include="Images\completedwork.jpg" />
+    <Content Include="Images\completedworksignpost.png" />
     <Content Include="Images\contact.jpg" />
+    <Content Include="Images\currentprojectssignpost.png" />
     <Content Include="Images\divbg.gif" />
     <Content Include="Images\divbg.png" />
     <Content Include="Images\inproduction.jpg" />
