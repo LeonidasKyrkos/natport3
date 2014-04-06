@@ -54,6 +54,12 @@
     background-color: #bdbdbd;
 }
 
+.menu {
+    top: 0px;
+    left: 0%;
+    position: absolute;
+}
+
 .sidelineright {
     top: 0px;
     right: 20%;
@@ -106,6 +112,6 @@ h2 {
 
 .headerbg {
     margin-top: 30px; 
-    background-color: #209eba;
+    background-color: #ddd;
 }
 
