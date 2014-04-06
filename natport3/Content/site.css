@@ -74,12 +74,38 @@
 /* end of index images*/
 
 h1 {
+    padding-right: 20px;
     padding-top: 10px;
-    font-family: 'Open Sans Condensed', sans-serif;
+    padding-bottom: 10px;
+    font-family: 'Bell MT', 'Open Sans Condensed', sans-serif;
     font-size: 32px;
-    text-align: center;
+    text-align: right;
+    box-shadow: 0px 0px 3px black;
 }
 
-p.clear {
+h2 {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Bell MT', 'Open Sans Condensed', sans-serif;
+    font-size: 32px;
+    text-align: left;
+    box-shadow: 0px 0px 3px black;
+}
+
+.clear {
     clear: both;
 }
+
+.postcontainer {
+    background-color: #cacaca; 
+    margin-top: 40px; 
+    margin-bottom: 40px; 
+    box-shadow: 0px 0px 3px black;
+}
+
+.headerbg {
+    margin-top: 30px; 
+    background-color: #209eba;
+}
+
