@@ -168,6 +168,7 @@
     <Content Include="Images\divbg.gif" />
     <Content Include="Images\divbg.png" />
     <Content Include="Images\inproduction.jpg" />
+    <Content Include="Images\sidebars.png" />
     <Content Include="Images\toplogo.gif" />
     <Content Include="Images\toplogo.jpg" />
     <Content Include="Images\toplogo.png" />
