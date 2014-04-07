@@ -38,8 +38,8 @@
     left: 0px;
     width: 20%;
     height: 100%;
-    /*background-image: url('http://localhost:10549/Images/sidebars.png');*/
-    background-image: url('~Images\sidebars.png');
+    /*background-image: url(http://localhost:10549/Images/sidebars.png);*/
+    background-image: url(../Images/sidebars.png);
     background-repeat: repeat-y;
 }
 
@@ -49,8 +49,8 @@
     right: 0px;
     width: 20%;
     height: 100%;
-    /*background-image: url('http://localhost:10549/Images/sidebars.png');*/
-    background-image: url('~Images\sidebars.png');
+    /*background-image: url(http://localhost:10549/Images/sidebars.png);*/
+    background-image: url(../Images/sidebars.png);
     background-repeat: repeat-y;
 }
 
