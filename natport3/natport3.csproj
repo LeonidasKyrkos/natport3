@@ -175,6 +175,8 @@
     <Content Include="Images\divbg.png" />
     <Content Include="Images\homemenu.png" />
     <Content Include="Images\inproduction.jpg" />
+    <Content Include="Images\logonat.png" />
+    <Content Include="Images\pintest.png" />
     <Content Include="Images\sidebars.png" />
     <Content Include="Images\SIGNPOST.png" />
     <Content Include="Images\toplogo.gif" />

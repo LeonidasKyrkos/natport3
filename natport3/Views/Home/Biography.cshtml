@@ -12,13 +12,15 @@
     <title>nat kyrkos bio</title>
     <script type="text/javascript" src="~/Content/JavaScript.js"></script>
 </head>
-<body style="background-color: #E6E6E6">
+<body>
         <div class="sidebarleft"></div>
         <div class="sidebarright"></div>
         <div class="sidelineleft"></div>
         <div class="sidelineright"></div>
 
-    <div class="maindiv">
+    <div class="pagewrapper">
+
+        <div class="maindiv">
             <a href= '@Url.Action("Index", "Home")'><img class="menu1" src="~/Images/homemenu.png"/></a>
             <a href="#"><img class="menu2" src="~/Images/currentmenu.png"/></a>
             <a href= '@Url.Action("Completed", "Home")'><img class="menu3" src="~/Images/completedmenu.png"/></a>
@@ -42,6 +44,8 @@
 
         
     </div>
+
+  </div>
 
 </body>
 </html>
