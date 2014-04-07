@@ -173,16 +173,24 @@
     <Content Include="Images\currentprojectssignpost.png" />
     <Content Include="Images\divbg.gif" />
     <Content Include="Images\divbg.png" />
+    <Content Include="Images\grapevine_separator.jpg" />
     <Content Include="Images\homemenu.png" />
     <Content Include="Images\inproduction.jpg" />
+    <Content Include="Images\LiKpEMaia.png" />
+    <Content Include="Images\logo2.png" />
+    <Content Include="Images\logo3.png" />
+    <Content Include="Images\logo4.png" />
     <Content Include="Images\logonat.png" />
     <Content Include="Images\pintest.png" />
+    <Content Include="Images\red-hanging-sign.jpg" />
+    <Content Include="Images\rope1.jpg" />
     <Content Include="Images\sidebars.png" />
     <Content Include="Images\SIGNPOST.png" />
     <Content Include="Images\toplogo.gif" />
     <Content Include="Images\toplogo.jpg" />
     <Content Include="Images\toplogo.png" />
     <Content Include="Images\Trinity-timeline-web-668x341.jpg" />
+    <Content Include="Images\wallpapers-pattern-color-vector-style-2560x1600.jpg" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
