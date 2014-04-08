@@ -161,6 +161,7 @@
     <Content Include="Content\site.css" />
     <Content Include="Global.asax" />
     <Content Include="Images\603941_10152241265570328_1095282471_n.jpg" />
+    <Content Include="Images\aboutmelink.png" />
     <Content Include="Images\art_1.jpg" />
     <Content Include="Images\bgnat.png" />
     <Content Include="Images\biographysignpost.png" />
@@ -171,9 +172,11 @@
     <Content Include="Images\contact.jpg" />
     <Content Include="Images\currentmenu.png" />
     <Content Include="Images\currentprojectssignpost.png" />
+    <Content Include="Images\currentprojlink.png" />
     <Content Include="Images\divbg.gif" />
     <Content Include="Images\divbg.png" />
     <Content Include="Images\grapevine_separator.jpg" />
+    <Content Include="Images\greenlogo.png" />
     <Content Include="Images\homemenu.png" />
     <Content Include="Images\inproduction.jpg" />
     <Content Include="Images\LiKpEMaia.png" />
@@ -181,8 +184,10 @@
     <Content Include="Images\logo3.png" />
     <Content Include="Images\logo4.png" />
     <Content Include="Images\logonat.png" />
+    <Content Include="Images\pastprojectslink.png" />
     <Content Include="Images\pintest.png" />
     <Content Include="Images\red-hanging-sign.jpg" />
+    <Content Include="Images\redlogo.png" />
     <Content Include="Images\rope1.jpg" />
     <Content Include="Images\sidebars.png" />
     <Content Include="Images\SIGNPOST.png" />

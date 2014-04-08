@@ -43,6 +43,13 @@
     background-repeat: repeat-y;
 }
 
+.logoholder {
+    width: 684px;
+    height: 213px;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+
 .sidebarright {
     position: absolute;
     top: 0px;
@@ -143,5 +150,14 @@ h2 {
 .headerbg {
     margin-top: 30px; 
     background-color: #ddd;
+}
+
+.biogpara {
+    font-family: Garamond; 
+    float: right; 
+    margin-right: 40px; 
+    margin-top: 10px; 
+    width: 70%;
+    text-align: justify
 }
 
