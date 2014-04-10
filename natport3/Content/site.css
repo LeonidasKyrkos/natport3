@@ -18,11 +18,10 @@
 
 
 .imgdiv {
-    width: 940px;
-    min-height: 604px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10%;
+    width: 960px;
+    height: 594px;
+    margin: 0 auto;
+    margin-top: 7%;
 }
 
 .maindiv {
@@ -44,11 +43,70 @@
 }
 
 .logoholder {
-    width: 684px;
+    width: 100%;
     height: 213px;
-    margin: 0 auto;
     margin-top: 2%;
 }
+
+h3 {
+    font-family: 'Lucida Calligraphy';
+    font-size: 45px;
+    margin-left: 30px;
+    line-height: 213px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #f39000;
+    float: left;
+}
+
+h4 {
+    font-family: 'Lucida Calligraphy';
+    font-size: 45px;
+    margin-left: 100px;
+    line-height: 213px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #f39000;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 3px;
+    margin-top: 0;
+    padding-bottom:3px;
+    padding-left: 0;
+    padding-top: 3px;
+    padding-right: 0;
+}
+
+li {
+    display:inline;
+    background-color: #f39000;
+    height: 100%;
+}
+
+    li:hover {
+        background-color: #ce7a00;
+    }
+
+.menu {
+    text-decoration: none;
+    color: black;
+    font-family: Garamond;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+    .menu:hover {
+        background-color: #ce7a00;
+    }
+
+    .menu active {
+        background-color: #ce7a00;
+    }
 
 .sidebarright {
     position: absolute;
@@ -74,7 +132,8 @@
     margin-top: 0px;
     width: 100%;
     background-color: #f39000;
-    height: 3px;
+    height: auto;
+    box-shadow: 0px 0px 3px black;
 }
 
 .headseparator {
@@ -84,19 +143,6 @@
     height: 3px;
 }
 
-.menu1 {
-    margin-top: -1%;
-}
-
-.menu2 {
-    margin-top: -1%;
-    left: 110px;
-}
-
-.menu3 {
-    margin-top: -1%;
-    left: 220px;
-}
 
 .sidelineright {
     top: 0px;
@@ -109,7 +155,8 @@
 
 
 .imgblock2 {
-    float: left;
+    margin-left: auto;
+    margin-right: auto;
     box-shadow: 0px, 0px, 10px, black;
     width: 300px;
     height: 594px;

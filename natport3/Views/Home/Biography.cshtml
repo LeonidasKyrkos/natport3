@@ -20,12 +20,20 @@
 
     <div class="pagewrapper">
 
-        <div class="topline"></div>
+        <div class="topline">
+
+            <ul>
+            <li><a class="menu" href= '@Url.Action("Index", "Home")'>home</a></li><!--
+         --><li><a class="menu" href="#">current projects</a></li><!--
+         --><li><a class="menu" href= '@Url.Action("Completed", "Home")'>previous work</a></li><!--
+         --><li><a class="menu" href= '@Url.Action("Biography", "Home")'>about me</a></li>
+            </ul>
+
+        </div>
 
         <div class="logoholder">
-            <img style="margin-right: 15px;" src="~/Images/currentprojlink.png" />
-            <a href= '@Url.Action("Index", "Home")'><img style="margin-right: 15px;" src="~/Images/greenlogo.png" /></a>
-            <a href= '@Url.Action("Completed", "Home")'><img src="~/Images/pastprojectslink.png" /></a>
+            <a href= '@Url.Action("Index", "Home")'><img style="margin-left: 15%; float: left;" src="~/Images/logo4.png" /></a>
+            <h4>about me</h4>
         </div>
 
       <div class="maindiv">
