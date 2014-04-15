@@ -184,6 +184,8 @@
     <Content Include="Images\logo3.png" />
     <Content Include="Images\logo4.png" />
     <Content Include="Images\logonat.png" />
+    <Content Include="Images\menu.png" />
+    <Content Include="Images\pagebackground.png" />
     <Content Include="Images\pastprojectslink.png" />
     <Content Include="Images\pintest.png" />
     <Content Include="Images\red-hanging-sign.jpg" />
